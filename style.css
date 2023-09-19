@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.containar{
+    max-width: 1450px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.chiziq{
+    position: absolute;
+    width: 100%;
+    box-shadow: 20px 0 20px rgba(0, 0, 0, 0.259);
+}
+h1{
+    
+    margin-top: 30px;
+    
+}
+.sayt{
+    display: flex;
+    align-items: center;
+    margin-left:1400px;
+    gap:30px;
+    font-size: 20px;
+}
+button p{
+    width:190px;
+    height: 40px;
+    font-size:25px;
+    background-color:aqua;
+    border-radius: 10px;
+}
+.box10{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 50px;
+}
+.box11{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+
+iframe{
+    position: absolute;
+    margin-top: 130px;
+    margin-left:1260px;
+}
+
+button{
+    width:250px;
+    height: 50px;
+    position: absolute;
+    margin-top:435px;
+    font-size: 20px;
+    background-color: rgb(0, 153, 255);
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.epka{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 650px;
+    font-size: 60px;
+}
+.box100{
+   position: absolute;
+   margin-top: 600px;
+   margin-left:480px; 
+   font-size: 30px;
+}
+.box101{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 30px;
+}
